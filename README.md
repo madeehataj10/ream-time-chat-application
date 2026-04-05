@@ -36,4 +36,11 @@ communication, client–server interaction, and responsive user interface design
 
 ---
 
-## Project Structure 
+## Project Structure
+
+real-time-chat-application/
+├── index.html      # Main HTML file for the chat interface
+├── style.css       # CSS file for styling the application
+├── script.js       # JavaScript file handling chat functionality
+└── README.md       # Project documentation
+
